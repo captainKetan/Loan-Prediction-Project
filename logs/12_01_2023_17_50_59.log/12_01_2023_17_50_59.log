@@ -1,0 +1,18 @@
+[2023-12-01 17:51:03,478] 22 root - INFO - Data Ingestion starts now
+[2023-12-01 17:51:03,491] 37 root - INFO - Ingestion completed
+[2023-12-01 17:51:03,522] 67 root - INFO - Reading train and test data completed
+[2023-12-01 17:51:03,522] 71 root - INFO - Obtaining preprocessor object
+[2023-12-01 17:51:03,522] 29 root - INFO - Process of creating preprocessor started
+[2023-12-01 17:51:03,522] 33 root - INFO - Creating Pipeline
+[2023-12-01 17:51:03,522] 55 root - INFO - Pipeline Creation completed
+[2023-12-01 17:51:03,522] 73 root - INFO - Obtained preprocessor
+[2023-12-01 17:51:03,522] 75 root - INFO - Applying preprocessor object
+[2023-12-01 17:51:03,554] 79 root - INFO - Combining the tranformed model as train and test df
+[2023-12-01 17:51:03,554] 84 root - INFO - Transformation Completed
+[2023-12-01 17:51:03,554] 28 root - INFO - Splitting data into i/p and o/p and as train and test
+[2023-12-01 17:51:03,554] 36 root - INFO - Model Training starts
+[2023-12-01 17:51:04,055] 38 root - INFO - Training with multiple models completed
+[2023-12-01 17:51:04,055] 40 root - INFO - Best model score founded
+[2023-12-01 17:51:04,055] 43 root - INFO - Best Model Name founded
+[2023-12-01 17:51:04,055] 45 root - INFO - Best Model Taken out
+[2023-12-01 17:51:04,055] 48 root - INFO - Best model is LogisticRegression with accuray 0.7886178861788617

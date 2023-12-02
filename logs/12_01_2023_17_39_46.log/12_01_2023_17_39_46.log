@@ -1,0 +1,15 @@
+[2023-12-01 17:39:48,813] 22 root - INFO - Data Ingestion starts now
+[2023-12-01 17:39:48,845] 37 root - INFO - Ingestion completed
+[2023-12-01 17:39:48,860] 67 root - INFO - Reading train and test data completed
+[2023-12-01 17:39:48,860] 71 root - INFO - Obtaining preprocessor object
+[2023-12-01 17:39:48,860] 29 root - INFO - Process of creating preprocessor started
+[2023-12-01 17:39:48,860] 33 root - INFO - Creating Pipeline
+[2023-12-01 17:39:48,860] 55 root - INFO - Pipeline Creation completed
+[2023-12-01 17:39:48,860] 73 root - INFO - Obtained preprocessor
+[2023-12-01 17:39:48,860] 75 root - INFO - Applying preprocessor object
+[2023-12-01 17:39:48,891] 79 root - INFO - Combining the tranformed model as train and test df
+[2023-12-01 17:39:48,891] 84 root - INFO - Transformation Completed
+[2023-12-01 17:39:48,891] 28 root - INFO - Splitting data into i/p and o/p and as train and test
+[2023-12-01 17:39:48,891] 36 root - INFO - Model Training starts
+[2023-12-01 17:39:49,252] 38 root - INFO - Training with multiple models completed
+[2023-12-01 17:39:49,252] 52 root - INFO - Error in initiation of model training: list indices must be integers or slices, not str

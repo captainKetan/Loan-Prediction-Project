@@ -1,0 +1,4 @@
+[2023-12-02 13:40:25,209] 96 werkzeug - WARNING -  * Debugger is active!
+[2023-12-02 13:40:25,221] 96 werkzeug - INFO -  * Debugger PIN: 239-219-267
+[2023-12-02 13:41:27,864] 70 root - INFO - DataFrame created
+[2023-12-02 13:41:28,118] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2023 13:41:28] "POST /predict HTTP/1.1" 200 -

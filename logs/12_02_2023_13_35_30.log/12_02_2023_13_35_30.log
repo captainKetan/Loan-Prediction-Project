@@ -1,0 +1,13 @@
+[2023-12-02 13:35:32,917] 96 werkzeug - WARNING -  * Debugger is active!
+[2023-12-02 13:35:32,933] 96 werkzeug - INFO -  * Debugger PIN: 239-219-267
+[2023-12-02 13:35:51,609] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2023 13:35:51] "[33mGET /predict_home_price HTTP/1.1[0m" 404 -
+[2023-12-02 13:35:52,759] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2023 13:35:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-12-02 13:35:55,985] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2023 13:35:55] "[33mGET /predic HTTP/1.1[0m" 404 -
+[2023-12-02 13:35:59,575] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2023 13:35:59] "[33mGET /predict_home_price HTTP/1.1[0m" 404 -
+[2023-12-02 13:36:03,272] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2023 13:36:03] "[33mGET /predict_home_price HTTP/1.1[0m" 404 -
+[2023-12-02 13:36:06,658] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2023 13:36:06] "GET /predict HTTP/1.1" 200 -
+[2023-12-02 13:36:26,371] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2023 13:36:26] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2023-12-02 13:36:26,610] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2023 13:36:26] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2023-12-02 13:36:26,755] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2023 13:36:26] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2023-12-02 13:36:26,859] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2023 13:36:26] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2023-12-02 13:36:27,265] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2023 13:36:27] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
